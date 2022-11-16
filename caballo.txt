@@ -1,1 +1,2 @@
-un caballo blanco y marron
+un caballo blanco y marron.
+El caballo se llama pedro
