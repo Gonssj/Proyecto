@@ -1,2 +1,5 @@
 un caballo blanco y marron
+el caballo tiene de apellido ramon
+un caballo blanco y marron.
+El caballo se llama pedro
 el caballo tiene 20 años
